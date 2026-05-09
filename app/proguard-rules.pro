@@ -1,0 +1,5 @@
+-keep class com.example.motioncues.view.** { *; }
+-keep class com.example.motioncues.service.** { *; }
+-keep class com.example.motioncues.sensor.** { *; }
+-keep class com.example.motioncues.prefs.** { *; }
+-keep class com.example.motioncues.** { *; }
